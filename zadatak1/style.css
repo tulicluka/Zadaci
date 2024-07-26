@@ -1,0 +1,137 @@
+/* .row {
+  --bs-gutter-x: 3.5rem;
+} */
+
+.sidebar {
+  background-color: #323b4c;
+  padding: 0;
+}
+
+.img-container {
+  text-align: center;
+}
+
+img {
+  width: 40%;
+}
+
+p {
+  margin-bottom: 0;
+}
+
+.main-heading {
+  color: #323b4c;
+}
+
+.sub-heading {
+  color: #fff;
+  border-bottom: 1px solid #fff;
+}
+
+.contact {
+  margin: 10px 0 30px 50px;
+}
+
+.list {
+  padding-left: 1.3rem;
+  color: #737373;
+}
+
+.information {
+  color: #fff;
+}
+
+.information-phone,
+.information-email,
+.information-address {
+  margin-bottom: 1.3rem;
+}
+
+.information-heading {
+  font-weight: bold;
+}
+
+.information-list {
+  color: #fff;
+  padding-left: 2rem;
+}
+
+#english {
+  margin-bottom: 0.4rem;
+}
+
+.education {
+  margin-top: 2.6rem;
+  margin-bottom: 5rem;
+}
+
+.education-heading {
+  border-bottom: 1px solid #323b4c;
+}
+
+.education-lasting {
+  position: relative;
+  border-left: 1px solid #323b4c;
+  padding-left: 1.3rem;
+}
+
+.education-faculty {
+  margin-bottom: 2rem;
+}
+
+.years {
+  color: #737373;
+  font-weight: bold;
+  display: inline-block;
+  margin-bottom: 0.5rem;
+}
+
+.education p {
+  color: #737373;
+  margin-bottom: 0.5rem;
+  font-size: 1.2rem;
+  font-weight: bold;
+}
+
+.course {
+  color: #737373;
+  display: inline-block;
+  margin-bottom: 0.5rem;
+}
+
+.skills-heading {
+  border-bottom: 1px solid #323b4c;
+}
+
+.web-skills {
+  margin-left: 1rem;
+}
+
+.skill {
+  margin-bottom: 0.5rem;
+  color: #737373;
+  font-weight: bold;
+}
+
+.web-container {
+  position: relative;
+  border-left: 1px solid #000;
+}
+
+.left-circles {
+  position: absolute;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  height: 100%;
+  padding: 0.5rem 0;
+  left: -4px;
+}
+
+.circle {
+  width: 8px;
+  height: 8px;
+  background: #fff;
+  border: 1px solid #323b4c;
+  border-radius: 50%;
+}

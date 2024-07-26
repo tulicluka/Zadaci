@@ -1,0 +1,12 @@
+.slider {
+  width: 40%;
+  margin: 0 auto;
+}
+.slick-slide {
+  text-align: center;
+  padding: 20px;
+}
+.slick-slide img {
+  width: 100%;
+  height: auto;
+}
